@@ -75,7 +75,7 @@ public class Seller implements Serializable{//vendedor
 	}
 	
 	public void setBaseSalary(Double baseSalary) {
-		
+		this.baseSalary = baseSalary;
 	}
 
 	@Override
